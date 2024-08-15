@@ -18,7 +18,6 @@ A simple calculator application built with Python's Tkinter library. This projec
   - `⌫` button to delete the last character.
 - **User-Friendly Interface**: 
   - Intuitive design with large, easy-to-read buttons and display.
-  - 
 ## Screen Record
 https://github.com/user-attachments/assets/60569e3a-e966-40e3-a4d4-c3af05bceefc
 
